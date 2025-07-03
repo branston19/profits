@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>XLCoffee</title>
+<style>
+ul {
+  list-style-type: none;
+  padding: 0;
+  border-radius: 20px;
+  overflow: hidden;
+  background-color: #342519;
+}
+li {
+  float: right;
+}
+
+li a {
+  color: White;
+  padding: 2px 30px;
+  text-decoration: none;
+  font-size: 27px; 
+}
+</style>
+</head>
+
+<body>
+<ul>
+<a href="XLcoffee.html">
+	<img src="logo3.png" alt="logo" style="width:170px; height:60px; margin-left:9px; margin-top:3px;"></a> 
+
+<li><p style="font-size:20px;"><a class="active" href="#home"><b>Menu</b></a></li>
+  <li><p style="font-size:20px;"><a href="Order Now"><b>Order Now</b></a></li>
+  <li><p style="font-size:20px;"><a href="Contact.html"><b>Contact</b></a></li>
+  <li><p style="font-size:20px;"><a href="#about"><b>About</b></b></a></li>
+  <li><p style="font-size:20px;"><a href="login.html"><b>Login</b></b></a></li>
+</ul>
+
+    <style>
+        input, textarea {
+            border: 3px solid #3E1C21; 
+        }
+        button {
+            padding:12px;
+        }
+    </style>
+<br>
+
+<div style="display: flex; justify-content: center; gap: 60px; align-items: flex-start;">
+    <div style="border: 5px solid #3E2C21; padding: 10px; border-radius: 10px; background-color: #EDE6D9; color: #684F36; text-align: center; flex: 1;">
+        <div style="display: flex; align-items: center; justify-content: center; gap:15px; flex-direction: row-reverse;">
+            <img src="logo.png" style="width:100px;height:100px;">
+            
+	<h1 style="font-family: Impact;">Contact Us!</h1>
+</div>
+        <hr style="border: 1.8px solid #6F4E37; margin: 10px 0;">
+		<h3 style="font-family: Helvetica;">We're always more than happy to answer your questions!<br> We aim to respond to enquiries within 3 hours on business days.</h3>
+        <div style="margin-top: 5px; padding: 15px; background-color: #EDE6D9;">
+
+<form>
+<style>
+    ::placeholder {
+        color: white; 
+        font-weight: bold;
+</style>
+
+<p><input type="text" placeholder="Name *" style="border-radius: 10px; width: 40%; padding: 8px; background-color: #6F4E37; color: White;"></p>
+	<p><input type="text" placeholder="Email Address *" style="border-radius: 10px; width:50%; padding: 8px; background-color: #6F4E37; color: white;"></p>
+		<p><input type="text" placeholder="Phone Number (Optional) *"style="border-radius: 10px; width: 50%; padding: 8px; background-color: #6F4E37; color: white;"></p>
+			<p><textarea placeholder="Message *" rows="5" cols="20" style="border-radius: 10px; width: 70%; padding: 8px; background-color: #6F4E37; color: white;"></textarea></p>
+
+            <button type="submit" style="border-radius: 20px; width: 30%; background-color: #3E2C21; color: white;font-weight: bold;"
+    onmouseover="this.style.backgroundColor='#6F4E37';"
+    onmouseout="this.style.backgroundColor='#3E2C21';">
+    Submit
+</button>
+</form>
+        </div>
+    </div>
+
+  <div style="border: 5px solid #3E2C21; padding: 10px; border-radius: 40px; background-color: #EDE6D9; color: #6F4E37; text-align: center; flex: 0.8; margin-top: 140px;">
+        <h2>Our Contact</h2>
+        <p><b>Email:</b> XLsCOFFEE@gmail.com</p>
+        <p><b>Phone Number:</b> 9402 2301</p>
+        <h3 style="margin-top: 15px;">Follow Us!</h3>
+        <div style="display: flex; justify-content: center; gap: 15px;">
+            <a href="https://www.instagram.com" target="_blank">
+                <img src="instagram.png" alt="Instagram" style="width: 50px; height:50px;"></a>
+            <a href="https://www.facebook.com" target="_blank">
+                <img src="facebook.png" alt="Facebook" style="width: 50px; height:50px;"></a>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+
+<div style="background-color:#342519;;color:white;padding:25px;">
+   <center><h3>Location</h3><center>  
+	<center><p style="font-size:70%">Temasek Secondary School (600 upper east coast road, S465561) </p><center>
+    <center>
+    <hr>    
+    <h4 style="text-align: center;">Opening timings</h4>
+    <p style="font-size:70%">Monday: 7:00am-7:00pm</p>
+    <p style="font-size:70%">Tuesday: 7:00am-7:00pm</p>
+    <p style="font-size:70%">Wednesday: 7:00am-7:00pm</p>
+    <p style="font-size:70%">Thursday: 7:00am-7:00pm</p>
+    <p style="font-size:70%">Friday: 7:00am-7:00pm</p>
+    <p style="font-size:70%">Saturday: 9:30am-5:30pm</p>
+    <p style="font-size:70%">Sunday: 9:30am-5:30pm</p>
+	<hr>
+    <center>
+<body style="background-color:#B39977;">
+</html>
